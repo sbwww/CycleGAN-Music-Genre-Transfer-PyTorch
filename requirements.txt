@@ -1,0 +1,4 @@
+torch==1.10.0
+pretty_midi==0.2.9
+tqdm==4.62.3
+tensorboardX==2.2
